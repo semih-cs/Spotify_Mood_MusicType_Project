@@ -1,4 +1,6 @@
 # dsa210project
+                                                Analyzing the Correlation Between Music Preferences and Emotional States
+
         Project Overview
 
 The relationship between music and emotions is a complex and intriguing subject. Over the past year, I’ve been curious about how my music preferences may reflect or influence my emotional state. This project aims to analyze my Spotify listening data over the course of a year and explore potential correlations between my music choices and emotional state. The goal is to identify trends, patterns, and correlations between my listening behavior and emotional well-being, which could provide deeper insights into how music affects mood.

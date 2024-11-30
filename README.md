@@ -1,7 +1,5 @@
 # dsa210project  
     Analyzing the Correlation Between Music Preferences and Emotional States
-
-
      
         Project Overview
 
